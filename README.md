@@ -9,8 +9,8 @@
                       INSTA ID : Hari Rasajna
 - 😄 objective : GIVE YOUR BEST AND BELIVE IN GOD FOR RESULTS   
 - ⚡ Fun fact : THAT WINDOWS DESKTOP'S "REFRESH" BUTTON IS NOT SOME MAGICAL TOOL WHICH KEEPS YOUR SYSTEM HEALTHY
-***while(!(succeed = try()));
-// life motto
+                                      ***while(!(succeed = try()));
+***// life motto
 if(sad()=== true)
 {
  sad().stop();

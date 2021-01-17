@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**RASAJNAHARI/RASAJNAHARI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on JAVA
+- 🌱 I’m currently learning HTML
+- 👯 I’m looking to collaborate on A.I
+- 💬 Ask me about PYTHON
+- 📫 How to reach me: MAIL ID : TARARASAJNA@GMAIL.COM
+                      INSTA ID : Hari Rasajna
+- 😄 objective : GIVE YOUR BEST AND BELIVE IN GOD FOR RESULTS   
+- ⚡ Fun fact : THAT WINDOWS DESKTOP'S "REFRESH" BUTTON IS NOT SOME MAGICAL TOOL WHICH KEEPS YOUR SYSTEM HEALTHY
+***while(!(succeed = try()));
+// life motto
+if(sad()=== true)
+{
+ sad().stop();
+ beAwesome();
+}
+         I AM IN THE PROCESS OF BECOMING UPDATED VERSION OF MYSELF.....
